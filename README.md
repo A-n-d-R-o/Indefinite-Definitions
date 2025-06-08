@@ -1,5 +1,5 @@
 # Indefinite-Definitions
-An investigation into the "dictionary paradox": each word needs more words to be formally defined and described, as do the words in its definition. For a given sentence, this program replaces each word in the sentence with its definition, iteratively. The aim of this program is to see what, if any, patterns emerge, such as the most relied word used in definitions.<br><br>
+An investigation into the "dictionary paradox": each word needs more words to be formally defined and described, as do the words in its definition, hence no word can be defined without universally agreed upon meanings of select words. For a given sentence, this program replaces each word in the sentence with its definition, iteratively. The aim of this program is to see what, if any, patterns emerge, such as the most frequenct words in definitions.<br><br>
 
 This is a question I've been wanting to investgate for quite some time, and this is the first real attempt at an investigation. However, due to the exponential growth of ammended sentences, the number of iterations viable for computation is low. This program only provides a superficial look into a process which I believe could reveal some pretty interesting patterns at much larger scales. <br><br>
 
